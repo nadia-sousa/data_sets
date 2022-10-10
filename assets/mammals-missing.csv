@@ -1,0 +1,6 @@
+Legs,Wings,Fur,Feathers,Mammal
+4,no,yes,no,TRUE
+2,yes,no,yes,FALSE
+4,no,no,,FALSE
+4,,yes,no,TRUE
+3,no,no,no,FALSE
