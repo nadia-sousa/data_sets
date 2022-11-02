@@ -2,6 +2,7 @@
 
 set up commands:
 
+``````
 ###### Set Up #####
 # verify our folder with the data and module assets is installed
 # if it is installed make sure it is the latest
@@ -12,3 +13,4 @@ set up commands:
 home = "data_sets/assignment____/" 
 import sys
 sys.path.append(home)      # add home folder to module search path
+```
