@@ -13,4 +13,3 @@ set up commands:
 home = "data_sets/assignment____/" 
 import sys
 sys.path.append(home)      # add home folder to module search path
-```
